@@ -14,7 +14,7 @@
 
 #### Time critical
 * (!!!)[Arhitecting Time Critical Big Data Systems](https://arxiv.org/pdf/1611.00946.pdf)
-* (!!!)[A Unified High-Level Petri Net Formalism for Time-Critical Systems](https://www.researchgate.net/publication/3187351_A_Unified_High-Level_Petri_Net_Formalism_for_Time-Critical_Systems)
+* [A Unified High-Level Petri Net Formalism for Time-Critical Systems](https://www.researchgate.net/publication/3187351_A_Unified_High-Level_Petri_Net_Formalism_for_Time-Critical_Systems)
 
 #### Lambda Arhitecture
 * (!!!)[Optimised Lambda Architecture for monitoring scientific infrastructure](https://www.researchgate.net/publication/324493058_Optimised_Lambda_Architecture_for_monitoring_scientific_infrastructure)
