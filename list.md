@@ -12,6 +12,7 @@
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2011/EECS-2011-82.pdf)
 * [Scaling Spark in the real world: Performance and Usability](https://cs.stanford.edu/~matei/papers/2015/vldb_spark.pdf)
 
+
 #### Lambda Arhitecture
 * (!!!)[Optimised Lambda Architecture for monitoring scientific infrastructure](https://www.researchgate.net/publication/324493058_Optimised_Lambda_Architecture_for_monitoring_scientific_infrastructure)
 * [Fundamentals of real time Data Processing Arhitectures Lambda and Kappa](http://martinfeick.com/wp-content/uploads/2018/07/Fundamentals-of-Real-Time-Data-Processing-Architectures-Lambda-and-Kappa.pdf)
